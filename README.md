@@ -3,19 +3,18 @@ Data Preprocessing &amp; Feature Engineering for Machine Learning (Housing Datas
 
 In this project, we will work with a housing data set to perform the following important tasks:
 
+- Data Import and first Inspection
 
-    - Data Import and first Inspection
+- Data Cleaning and Creating additional Features
 
-    - Data Cleaning and Creating additional Features
+- Identitying which Factors influence House Prices
 
-    - Identitying which Factors influence House Prices
+- Advanced Explanatory Data Analyis with Seaborn
 
-    - Advanced Explanatory Data Analyis with Seaborn
+- Feature Engineering
 
-    - Feature Engineering
+- Splitting the Data into Train and Test Set
 
-    - Splitting the Data into Train and Test Set
+- Training the ML Model Random Forest
 
-    - Training the ML Model Random Forest
-    
-    - Evaluating the Model on the Test Set
+- Evaluating the Model on the Test Set
