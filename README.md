@@ -3,6 +3,7 @@ Data Preprocessing &amp; Feature Engineering for Machine Learning (Housing Datas
 
 In this project, we will work with a housing data set to perform the following important tasks:
 
+
 - Data Import and first Inspection
 
 - Data Cleaning and Creating additional Features
@@ -18,3 +19,4 @@ In this project, we will work with a housing data set to perform the following i
 - Training the ML Model Random Forest
 
 - Evaluating the Model on the Test Set
+
